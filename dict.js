@@ -2,7 +2,7 @@ dict={
     chapter1:{
         page0:{
           
-            'ranek ':'ranek ',
+            'ranek ':'morning ',
             'zegar ':' clock',
             'nie działa':'does not work',
             'denerwuje':' annoys',
