@@ -9,7 +9,7 @@ dict={
             'glowa':' head',
             'poczekac':' wait',
             
-            ' nie chce':"  doesn't want to",
+            ' nie chce':"  does not want to",
             'przegapil ':'missed',
             'on biegnie':'he is running ',
             'wieczor':' evening',
@@ -18,17 +18,17 @@ dict={
            
         },
         page1:{
-            " ":" ",
-            " ":" ",
-            " ":" ",
-            " ":" ",
-            " ":" ",
+            "pływanie ":"swimming ",
+            " noga":" leg",
+            " dobry pomysł":"good idea ",
+            "woda ":"water ",
+            "bardzo dobrze ":" very good",
             //----------------------------------//
-            " ":" ",
-            " ":" ",
-            " ":" ",
-            " ":" ",
-            " ":" ",
+            "przestań ":"stop it ",
+            "nie umiem  ":"I can not",
+            "nieźle ":"not bad ",
+            "potrzebuję ":"I need",
+            "nie potrzebuję ":"I do not need",
            
 
 
