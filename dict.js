@@ -32,6 +32,22 @@ dict={
            
 
 
+        },page2:{
+            "brat ":"brother ",
+            "wieczór ":"evening ",
+            "ważny ":"important ",
+            "swiatlo ":"light ",
+            " widzę":"I see ",
+            //----------------------------------//
+            "latarka ":"flashlight ",
+            " bardzo długo":"very long ",
+            "pudełko ":"box ",
+            "prąd ":"current ",
+            "potańczmy":"lets dance ",
+
+        
+           
+        
         },
         page3:{
             " ":" ",
