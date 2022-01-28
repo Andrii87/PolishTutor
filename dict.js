@@ -6,13 +6,13 @@ dict={
             'zegar ':' clock',
             'nie działa':'does not work',
             'denerwuje':' annoys',
-            'glowa':' head',
+            'głowa':' head',
             'poczekac':' wait',
             
-            ' nie chce':"  does not want to",
+            ' nie chce':"  does not want",
             'przegapil ':'missed',
             'on biegnie':'he is running ',
-            'wieczor':' evening',
+            'wieczór':' evening',
             'dobranoc':'Good night ',
             'dziewiąta':" nine o'clock",
            
