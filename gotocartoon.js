@@ -15,8 +15,10 @@ GoToYoutube = function(){
             else if (DictPage==1)
                  {window.open( "https://youtu.be/OnTYRupeOSs");} 
         
-             else if (DictPage==2)
+            else if (DictPage==2)
                  {window.open( "https://youtu.be/XhYSqZLVVIw");} 
+            else if (DictPage==3)
+                 {window.open( "https://youtu.be/5XOAvDJV-MQ");} 
             // //---------------------------------------------------------//
             // else if (DictPage==3)
             // 	{window.open( "---");} 
@@ -85,11 +87,11 @@ GoToYoutubeEnglish = function(){
         if (DictPage==0)
             {window.open( "https://youtu.be/gu6PYRquPfw");} 
          if(DictPage==1)
-             {window.open( "https://youtu.be/hWdLhB2okqA?t=15");} 
+                {window.open( "https://youtu.be/hWdLhB2okqA?t=15");} 
          else if (DictPage==2)
-             {window.open( "https://youtu.be/mBIPSF8Hciw");}  //eng
-        // else if ((DictPage==3)||(DictPage==4))
-        // 	{window.open( "https://youtu.be/0aGUmvVFKr4?t=15");} //eng
+                {window.open( "https://youtu.be/mBIPSF8Hciw");}  //eng
+         else if ((DictPage==3)||(DictPage==4))
+         	    {window.open( "https://youtu.be/yPsywDWFjOg");} //eng
         // else if (DictPage==5)
         // 	{window.open( "https://youtu.be/lJnADJxyr54?t=15");} //eng
         // else if (DictPage==6)

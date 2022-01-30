@@ -11,7 +11,7 @@
 	win.volume=0.5;
 
 	var ChapterNr = 1;
-	var DictPage = 0;
+	var DictPage = 3;
 		
 
 	var myCanvas = document.getElementById('myCanvas').getContext('2d');
@@ -63,7 +63,8 @@
 		myCanvas.fillText('ESC to finish level',180, 400);
 
 		myCanvas.font = "18px Calibri";
-		myCanvas.fillText('Y to watch a cartoon',180, 430);
+		myCanvas.fillText('Y to watch a cartoon in Polish',180, 430);
+		myCanvas.fillText('E to watch a cartoon in English',180, 460);
 		myCanvas.restore();
 
 		//myCanvas.font = "18px Calibri";
